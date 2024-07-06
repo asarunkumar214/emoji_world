@@ -1,0 +1,113 @@
+body{
+    background: linear-gradient(180deg,black,silver,black);
+}
+#face{
+
+    height: 300px;
+    width:300px;
+    background-color: rgb(112, 3, 255);
+    border-radius: 150px;
+    box-shadow: 20px 20px 20px  black;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#ke{
+    height: 45px;
+    width:20px;
+    background-color:rgb(112, 3, 255);
+    border-top-right-radius: 100px;
+    border-top-left-radius: 10000%;
+    margin-left:1px;
+    padding-bottom: 90px;
+    box-shadow: 2px 2px px  black;
+    
+}
+#kl{
+    height: 45px;
+    width:20px;
+    background-color:rgb(112, 3, 255);
+    border-top-right-radius: 1000000%;
+    border-top-left-radius: 100px;
+    margin-top: -135px;
+    margin-left:279px;
+    padding-top:90px 
+}
+#re{
+    height: 45px;
+    width:55px;
+    background-color: rgb(255, 200, 0);
+    border-radius: 150px;
+    box-shadow: 2px 2px 2px  black;
+    margin-left: 70px;
+    margin-top: -35px;
+    border-radius: 100%;
+}
+
+#le{
+    height: 45px;
+    width:55px;
+    background-color: rgb(225, 187, 46);
+    border-radius: 150px;
+    box-shadow: 2px 2px 2px  black;
+    margin-left: 185px;
+    margin-top: -45px;
+    border-radius: 100%;
+   
+}
+#mouth{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(249, 249, 248);
+    margin-left: 85px;
+    margin-top: 39px;
+    border: 5px solid black;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 2px 2px 2px  
+}
+
+{
+    height:40px;
+    width:90px;
+    margin-left:105px;
+    margin-top:39px;
+    border: 2px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 2px  black;
+}
+#t{
+    height: 70px;
+    width: 30px;
+    background-color: rgb(247, 4, 4);
+    margin-left: 50px;
+    margin-top: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px ;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    box-shadow: 5px 5px 5px  black;
+}
+#ee{
+    height: 30px;
+    width: 20px;
+    background-color: rgb(8, 8, 8);
+    border-radius: 100%;
+    margin-left:20px ;
+    padding-bottom: 15PX;
+    box-shadow: 2px 2px 2px  black;
+
+}
+#eee{
+    
+    height: 30px;
+    width: 20px;
+    background-color: rgb(8, 8, 8);
+    border-radius: 100%;
+    margin-left:20px ;
+    padding-bottom: 15PX;
+    box-shadow: 2px 2px 2px  black;
+
+}
+   
+
